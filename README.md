@@ -1,10 +1,8 @@
-
-# Alan Sechi
 <h1 align="center">Alan Sechi</h1>
 
-<iframe src="https://giphy.com/embed/pbmVvxiFBPJQTvFcVT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-<!-- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-https://media.giphy.com/media/pbmVvxiFBPJQTvFcVT/giphy.gif -->
+
+<p align="center"><img src="https://media.giphy.com/media/pbmVvxiFBPJQTvFcVT/giphy.gif" alt="Synthwave" height="300" width="500"></p>
+
 
 <h2 align="center">About me</h2>
 
