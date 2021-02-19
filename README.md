@@ -1,18 +1,32 @@
 <h1 align="center">Alan Sechi</h1>
 
 
-<p align="center"><img src="alanSechi.gif" alt="Synthwave" height="300" width="500"></p>
-
-
 <h2 align="center">About me</h2>
+-Member of the @TomorrowDevs comunity
+- 🌱 I’m currently learning: Javascript, CSS, Sass, Responsive Web Apps, React, Vue
+  --- Sharpening my Front End Skills for the MERN stack (Personal goal), 
+- :school: I am currently a student of TommorowDevs.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomorrowDevs is a community where there are Mentors who follow me. They give me material for study <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and **many projects** to work on for improve my skills with the practice. So i learn by doing!
 
+- 🔭 I’m currently working on an Web App as a front-end developer. it's a image recognigtion app! <br>
 
-- 🌱 I’m currently learning:        Javascript, CSS, Sass, Responsive Web Apps, React, Vue 
-        --- Sharpening my Front End Skills for the MERN stack (Personal goal),
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here the link of the repo for more info! -> [Web App Repo](https://github.com/TD-team3/img-recognition-web-app-fe) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here the deploy -> [Web App](https://gracious-mcclintock-220460.netlify.app/index.html)
+
 - 👯 I’m looking to collaborate on: Javascxript, React and Vue related projects,
-- 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,
+- 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
 
 
+### <h2>Front end Group Experience</h2>
+As a front end developer i-ve learned a lot of stuff! :blush:
+- Working with others it's super useful! Sharing ideas and information eachother is like a boost :rocket: for my **creativity** and **opened my mind** :open_mouth:
+- Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
+- Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
+- I learned how to organize :bookmark_tabs: the work for the front-end party, trying to meet the deadlines :calendar: while also respecting the guidelines to make and understanble and clean work
+- I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
+- [Web App Repo](https://github.com/TD-team3/img-recognition-web-app-fe) This is the project i'm working on, go on and take a look! 
+<br> 
 
 <h2 align="center">You can reach me at :alien:</h2>
 
@@ -68,5 +82,6 @@
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-----
+---
+
 Credit: [alanSechi](https://github.com/alanSechi)
