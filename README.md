@@ -3,9 +3,10 @@
 <p align="center"><img src="alanSechi.gif" alt="Synthwave" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
--Member of the @TomorrowDevs comunity
+
+- Member of the @TomorrowDevs comunity
 - 🌱 I’m currently learning: Javascript, CSS, Sass, Responsive Web Apps, React, Vue
-  --- Sharpening my Front End Skills for the MERN stack (Personal goal), 
+- -- Sharpening my Front End Skills for the MERN stack (Personal goal), 
 - :school: I am currently a student of TommorowDevs.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomorrowDevs is a community where there are Mentors who follow me. They give me material for study <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and **many projects** to work on for improve my skills with the practice. So i learn by doing!
