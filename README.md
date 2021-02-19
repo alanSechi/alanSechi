@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Welcome to my github](https://giphy.com/gifs/pbmVvxiFBPJQTvFcVT/html5)
+[Welcome to my github](https://gph.is/g/am13QkQ)
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanSechi)](https://github.com/alanSechi/github-readme-stats)
