@@ -14,5 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[Welcome to my github](https://gph.is/g/am13QkQ)
+![Header image](alanSechi.gif)
+
 [![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanSechi&theme=algolia&show_icons=true)](https://github.com/alanSechi/github-readme-stats)
