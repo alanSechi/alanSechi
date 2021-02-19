@@ -1,12 +1,16 @@
 
 # Alan Sechi
+<h1 align="center">Alan Sechi</h1>
 
-![Header image](alanSechi.gif)
+<iframe src="https://giphy.com/embed/pbmVvxiFBPJQTvFcVT" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<!-- <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
+https://media.giphy.com/media/pbmVvxiFBPJQTvFcVT/giphy.gif -->
 
 <h2 align="center">About me</h2>
 
 
-- 🌱 I’m currently learning:        Javascript, CSS, Sass, Responsive Web Apps, React, Vue --- Sharpening my Front End Skills for the MERN stack (Personal goal),
+- 🌱 I’m currently learning:        Javascript, CSS, Sass, Responsive Web Apps, React, Vue 
+        --- Sharpening my Front End Skills for the MERN stack (Personal goal),
 - 👯 I’m looking to collaborate on: Javascxript, React and Vue related projects,
 - 🤔 I’m looking for help with:     Anything related to what I am currently learning 😅,
 
@@ -58,11 +62,11 @@
 
 <h4 align="center">Top langs :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnhellO&langs_count=10&theme=algolia&layout=compact" alt="AnhellO :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alanSechi&langs_count=10&theme=algolia&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alanSechi&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
