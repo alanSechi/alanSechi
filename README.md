@@ -1,5 +1,6 @@
 <h1 align="center">Alan Sechi</h1>
 
+<p align="center"><img src="alanSechi.gif" alt="Synthwave" height="300" width="500"></p>
 
 <h2 align="center">About me</h2>
 -Member of the @TomorrowDevs comunity
