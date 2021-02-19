@@ -1,7 +1,7 @@
 <h1 align="center">Alan Sechi</h1>
 
 
-<p align="center"><img src="https://media.giphy.com/media/pbmVvxiFBPJQTvFcVT/giphy.gif" alt="Synthwave" height="300" width="500"></p>
+<p align="center"><img src="alanSechi.gif" alt="Synthwave" height="300" width="500"></p>
 
 
 <h2 align="center">About me</h2>
