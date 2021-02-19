@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [Welcome to my github](https://gph.is/g/am13QkQ)
-[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanSechi)](https://github.com/alanSechi/github-readme-stats)
+[![Alan's GitHub stats](https://github-readme-stats.vercel.app/api?username=alanSechi&theme=algolia&show_icons=true)](https://github.com/alanSechi/github-readme-stats)
