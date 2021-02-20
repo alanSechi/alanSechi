@@ -93,8 +93,6 @@ As a front end developer i've learned a lot of stuff! :blush:
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alanSechi&show_icons=true&theme=algolia" alt="alanSechi :: Profile Stats" /></p>
 
-<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
-
 ---
 
 Credit: [alanSechi](https://github.com/alanSechi)
