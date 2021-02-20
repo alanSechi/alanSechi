@@ -32,9 +32,7 @@ As a front end developer i've learned a lot of stuff! :blush:
 
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
 
-- Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
-
-- I learned how to organize :bookmark_tabs: the work for the front-end party, trying to meet the deadlines :calendar: while also respecting the guidelines to make and understanble and clean work
+- Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible, working with **Agile methodology** helped me a lot to organize my work, to meet the deadlines :calendar: while also respecting the guidelines to make an understanble and clean work.
 
 - I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
 
