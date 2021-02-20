@@ -2,7 +2,7 @@
 
 <p align="center"><img src="alanSechi.gif" alt="Synthwave" height="300" width="500"></p>
 
-<h2 align="center">About me</h2>
+## <h2 align="center">About me</h2>
 
 - Member of the @TomorrowDevs comunity
 
@@ -23,7 +23,7 @@ Here the deploy -> [Web App](https://gracious-mcclintock-220460.netlify.app/inde
 - 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
 
 
-### <h2>Front end Group Work
+### <h2 align=center>Front end Group Work
 
 </h2>
 As a front end developer i've learned a lot of stuff! :blush:
@@ -32,7 +32,9 @@ As a front end developer i've learned a lot of stuff! :blush:
 
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
 
-- Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible, working with **Agile methodology** helped me a lot to organize my work, to meet the deadlines :calendar: while also respecting the guidelines to make an understanble and clean work.
+- Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible 
+
+- Working with **Agile methodology** helped me and the other team mebers to organize our work.
 
 - I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
 
