@@ -23,8 +23,10 @@
 - 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
 
 
-### <h2>Front end Group Experience</h2>
-As a front end developer i-ve learned a lot of stuff! :blush:
+### <h2>Front end Group Work
+
+</h2>
+As a front end developer i've learned a lot of stuff! :blush:
 - Working with others it's super useful! Sharing ideas and information eachother is like a boost :rocket: for my **creativity** and **opened my mind** :open_mouth:
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
 - Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
