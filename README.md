@@ -27,12 +27,19 @@
 
 </h2>
 As a front end developer i've learned a lot of stuff! :blush:
+
 - Working with others it's super useful! Sharing ideas and information eachother is like a boost :rocket: for my **creativity** and **opened my mind** :open_mouth:
+
 - Working as a team in the same development environment pushed me to write code **clean and understandable way as possibile** :construction_worker:
+
 - Leaving the comfort zone :no_entry: and using new technologies in order to learn as much as possible was another point on which I worked a lot together with the team.
+
 - I learned how to organize :bookmark_tabs: the work for the front-end party, trying to meet the deadlines :calendar: while also respecting the guidelines to make and understanble and clean work
+
 - I have also learned to stay positive :muscle: by facing problems and obstacles along the way, always trying to motivate others to give their all too.
+
 - [Web App Repo](https://github.com/TD-team3/img-recognition-web-app-fe) This is the project i'm working on, go on and take a look! 
+
 <br> 
 
 <h2 align="center">You can reach me at :alien:</h2>
@@ -64,7 +71,7 @@ As a front end developer i've learned a lot of stuff! :blush:
 
 <p align="center">Tools that I use on a daily basis</p>
 <p align="center">
-<br>
+<br
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
 <code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
