@@ -54,7 +54,7 @@ As a front end developer i've learned a lot of stuff! :blush:
 |[Poker Game](https://dreamy-pike-adb2e0.netlify.app/)|Given various poker hands as arguments, print what type of hand each argument is. [Poker_Game_Github](https://github.com/alanSechi/Poker-Game)|
 |[FoodSpin](https://suspicious-jackson-136582.netlify.app/)| A landing page desktop only made with JS, css and animations|[FoodSpin_Github](https://github.com/alanSechi/Foodspin-Landing-Page)|
 |[Find Your Doctor](https://lakeweathermap.netlify.app/)|Mobile Web Application.Simple Doctor Consultation that work online and allow the user, to find the best doctor!|[Find_Your_Doctor_Github](https://github.com/alanSechi/Find-Your-Doctor)|
-|[Group Project Web App](https://gracious-mcclintock-220460.netlify.app/index.html)| Image Recognition App build simulating real work enviroment[WebApp_Github](https://github.com/TD-team3/img-recognition-web-app-fe)|
+|[Group Project Web App](https://gracious-mcclintock-220460.netlify.app/index.html)| Image Recognition App build simulating real work enviroment|[WebApp_Github](https://github.com/TD-team3/img-recognition-web-app-fe)|
 <br>
 
 
