@@ -42,6 +42,24 @@ As a front end developer i've learned a lot of stuff! :blush:
 
 <br> 
 
+## Projects :floppy_disk:
+<br>
+
+|Deploy link|:page_facing_up:Description|:floppy_disk: Project code|
+|---|---|---|
+|[hotelLandingPage](https://competent-raman-48131c.netlify.app/)| basic level project, an hotel landing page. It has only a desktop view without responsiveness with html and css| [hotel_Github](https://github.com/alanSechi/Hotel-Booking-Landing-Page)|
+|[responsiveLandingPage](https://nostalgic-franklin-fa5934.netlify.app/)| full responsive landing page with HTML, CSS|[responsive_Github](https://github.com/alanSechi/Responsive-Landing-Page)|
+|[ConsultantLandingPage](https://competent-hypatia-a823c0.netlify.app/)| Landing Page project I made with HTML-CSS and JS. It's responsive and it has some interactivity.|[Consultant_Github](https://github.com/alanSechi/Consultant-Landing-Page)|
+
+|[FizzBuzz](https://fizz-buzz-game.netlify.app/)| Print the numbers from 1 to 100 inclusive, each on their own line.|[FizzBuzz](https://github.com/alanSechi/FizzBuzz-Game)|
+|[Poker Game](https://dreamy-pike-adb2e0.netlify.app/)|Given various poker hands as arguments, print what type of hand each argument is. [Poker_Game_Github](https://github.com/alanSechi/Poker-Game)|
+|[FoodSpin](https://suspicious-jackson-136582.netlify.app/)| A landing page desktop only made with JS, css and animations|[FoodSpin_Github](https://github.com/alanSechi/Foodspin-Landing-Page)|
+|[Find Your Doctor](https://lakeweathermap.netlify.app/)|Mobile Web Application.Simple Doctor Consultation that work online and allow the user, to find the best doctor!|[Find_Your_Doctor_Github](https://github.com/alanSechi/Find-Your-Doctor)|
+|[Group Project Web App](https://gracious-mcclintock-220460.netlify.app/index.html)| Image Recognition App build simulating real work enviroment[WebApp_Github](https://github.com/TD-team3/img-recognition-web-app-fe)|
+<br>
+
+
+
 <h2 align="center">You can reach me at :alien:</h2>
 
 <p align="center">
@@ -94,6 +112,7 @@ As a front end developer i've learned a lot of stuff! :blush:
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=alanSechi&show_icons=true&theme=algolia" alt="alanSechi :: Profile Stats" /></p>
+
 
 ---
 
