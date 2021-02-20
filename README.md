@@ -11,15 +11,16 @@
 - -- Sharpening my Front End Skills for the MERN stack (Personal goal), 
 
 - :school: I am currently a student of TommorowDevs.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; TomorrowDevs is a community where there are Mentors who follow me. They give me material for study <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and **many projects** to work on for improve my skills with the practice. So i learn by doing!
+TomorrowDevs is a community where there are Mentors who follow me. They give me material for study <br>
+and **many projects** to work on for improve my skills with the practice. So i learn by doing!
 
-- 🔭 I’m currently working on an Web App as a front-end developer. it's a image recognigtion app! <br>
+- 🔭 I’m currently working on an Web App as a front-end developer. It's a image recognigtion app! <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here the link of the repo for more info! -> [Web App Repo](https://github.com/TD-team3/img-recognition-web-app-fe) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Here the deploy -> [Web App](https://gracious-mcclintock-220460.netlify.app/index.html)
 
-- 👯 I’m looking to collaborate on: Javascxript, React and Vue related projects,
+- 👯 I’m looking to collaborate on: Javasccript, React and Vue related projects.
+
 - 🤔 I’m looking for help with: Anything related to what I am currently learning 😅,
 
 
